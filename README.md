@@ -1,4 +1,6 @@
 # Diagnostic-Analysis-using-Python
+Licensed under CC BY-NC-ND 4.0. View the LICENSE file for details.
+
 Diagnostic analysis and presenting key insights to address problem faced by NHS( in depth technical report can be found in [01 Project Management](01%20Project%20Management/)
 
 ## Project description
